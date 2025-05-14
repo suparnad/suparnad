@@ -30,6 +30,26 @@
 
 ---
 
+### 📝 Featured Projects
+
+- 🏷️ [AI Content Tagging in Drupal 11 ](https://github.com/suparnad/suparnad-comprehend_tagging) — Amazon Comprehend + Taxonomy Automation 
+- 🖊️ [Terraform - Amazon Comprehend Custom Classifier Deployment](https://github.com/suparnad/aws_comprehend_terraform-drupal11) - Terraform + Amazon Comprehend
+- 🌐 [Cloud Resume Challenge](https://github.com/suparnad/cloud-resume-challenge) — Terraform + Cognito + S3 + CloudFront + WAF  
+- 📧 [Email Marketing App with SES](https://github.com/suparnad/terraform-email-marketing-app) — SES + Lambda + EventBridge
+
+---
+
+### 📕 Latest Blog Posts
+
+- 🧠 [AI Meets Drupal: Auto-Tagging Articles with Amazon Comprehend, Taxonomy and Terraform](https://medium.com/@suparnad/ai-meets-drupal-auto-tagging-articles-with-amazon-comprehend-taxonomy-and-terraform-14b10cd575d0)
+- 📧 [A Simple Serverless Email Marketing App on AWS Using Terraform](https://medium.com/@suparnad/a-simple-serverless-email-marketing-app-on-aws-using-terraform-47e9c6196bb5)
+- 📄 [AWS Cloud Resume Challenge](https://medium.com/@suparnad/aws-cloud-resume-challenge-4c2011fddd99)
+- 🌐 [Building a Scalable & Cost-Effective AWS Data Storage Solution](https://medium.com/@suparnad/building-a-scalable-cost-effective-aws-data-storage-solution-bca0c3c59fed)
+- 🧩 [Building a Serverless Text-to-Speech Application with AWS Lambda, Polly & API Gateway](https://medium.com/@suparnad/building-a-serverless-text-to-speech-application-with-aws-lambda-polly-api-gateway-ae2107021b7f)
+- ▶️ [More blog posts...](https://medium.com/me/stories/public)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -39,15 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suparnad&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-### 📝 Featured Projects
-
-- 🏷️ [AI Content Tagging in Drupal 11 ](https://github.com/suparnad/suparnad-comprehend_tagging) — Amazon Comprehend + Taxonomy Automation 
-- 🖊️ [Terraform - Amazon Comprehend Custom Classifier Deployment](https://github.com/suparnad/aws_comprehend_terraform-drupal11) - Terraform + Amazon Comprehend
-- 🌐 [Cloud Resume Challenge](https://github.com/suparnad/cloud-resume-challenge) — Terraform + Cognito + S3 + CloudFront + WAF  
-- 📧 [Email Marketing App with SES](https://github.com/suparnad/terraform-email-marketing-app) — SES + Lambda + EventBridge
 
 ---
 
