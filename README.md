@@ -46,7 +46,7 @@
 - 📄 [AWS Cloud Resume Challenge](https://medium.com/@suparnad/aws-cloud-resume-challenge-4c2011fddd99)
 - 🌐 [Building a Scalable & Cost-Effective AWS Data Storage Solution](https://medium.com/@suparnad/building-a-scalable-cost-effective-aws-data-storage-solution-bca0c3c59fed)
 - 🧩 [Building a Serverless Text-to-Speech Application with AWS Lambda, Polly & API Gateway](https://medium.com/@suparnad/building-a-serverless-text-to-speech-application-with-aws-lambda-polly-api-gateway-ae2107021b7f)
-- ▶️ [More blog posts...](https://medium.com/me/stories/public)
+- ▶️ [More blog posts...](https://medium.com/@suparnad)
 
 ---
 
