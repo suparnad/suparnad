@@ -44,13 +44,10 @@
 
 ### 📝 Featured Projects
 
-### 📝 Featured Projects
-
 - 🏷️ [AI Content Tagging in Drupal 11 ](https://github.com/suparnad/suparnad-comprehend_tagging) — Amazon Comprehend + Taxonomy Automation 
 - 🖊️ [Terraform - Amazon Comprehend Custom Classifier Deployment](https://github.com/suparnad/aws_comprehend_terraform-drupal11) - Terraform + Amazon Comprehend
 - 🌐 [Cloud Resume Challenge](https://github.com/suparnad/cloud-resume-challenge) — Terraform + Cognito + S3 + CloudFront + WAF  
 - 📧 [Email Marketing App with SES](https://github.com/suparnad/terraform-email-marketing-app) — SES + Lambda + EventBridge
-
 
 ---
 
