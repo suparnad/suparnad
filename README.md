@@ -53,10 +53,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suparnad&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suparnad&layout=compact" alt="Top Languages" />
 </p>
 
