@@ -46,10 +46,9 @@
 
 ### 📝 Featured Projects
 
-- 🏷️ [Auto Tag Drupal 11 Pages with Amazon Comprehend](https://github.com/suparnad/drupal11-auto-tag-comprehend) — Custom module using best practices for content classification with AWS NLP
+- 🏷️ [AI Content Tagging in Drupal 11 ](https://github.com/suparnad/suparnad-comprehend_tagging) — Amazon Comprehend + Taxonomy Automation 
+- 🖊️ [Terraform - Amazon Comprehend Custom Classifier Deployment](https://github.com/suparnad/aws_comprehend_terraform-drupal11) - Terraform + Amazon Comprehend
 - 🌐 [Cloud Resume Challenge](https://github.com/suparnad/cloud-resume-challenge) — Terraform + Cognito + S3 + CloudFront + WAF  
-- 🧾 [AWS NLP Document Pipeline](https://github.com/suparnad/aws-nlp-document-ingest) — Textract + Comprehend + Bedrock  
-- 🧠 [AI Content Tagging in Drupal](https://github.com/suparnad/drupal-ai-content-tagger) — Amazon Comprehend + Taxonomy Automation  
 - 📧 [Email Marketing App with SES](https://github.com/suparnad/terraform-email-marketing-app) — SES + Lambda + EventBridge
 
 
